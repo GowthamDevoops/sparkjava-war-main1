@@ -1,4 +1,4 @@
-## sparkjava-war-example-Gowtham
+## sparkjava-war-example-Gowtham sample
 Build war with maven and sparkjava framework
 
 Steps:--
